@@ -1,1 +1,6 @@
 tekst
+
+git add. -> go pripremamme fajlot za commit 
+git commit -m "fajl.txt"
+git push
+git status 
